@@ -67,7 +67,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <iframe src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchitkara9&" alt="Rahul's GitHub streak" ></iframe>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchitkara9&" alt="Rahul's GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulchitkara9&show_icons=true&locale=en" alt="Rahul's GitHub streak" />
